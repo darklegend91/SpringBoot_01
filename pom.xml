@@ -31,6 +31,8 @@
 		<maven.compiler.source>24</maven.compiler.source>
 		<maven.compiler.target>24</maven.compiler.target>
 	</properties>
+
+	<!--2 dependecies are added already-->
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
